@@ -1,0 +1,11 @@
+<!-- Apenas uma imagem-->
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="Uma imagem impressionante">
+</figure>
+<p></p>
+<!-- Imagem com legenda -->
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="Uma imagem impressionante">	
+	<figcaption>Legenda para a imagem impressionante</figcaption>
+</figure>
+<p></p>
